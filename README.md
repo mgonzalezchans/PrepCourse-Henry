@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de prueba del M2 del PreCourse de Henry
+Prueba de cómo clonar un repositorio desde github a mi computadora.
